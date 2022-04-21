@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile Dev
 - 🌱 I’m currently an Intern as a Full Stack Js mobile developer and I'm learning NextJS
 - 💞️ I’m looking to collaborate on React Native Apps
+- 🎯 I'm focusing on learning some new stuff
 - 📫 How to reach me : medamin@gmail.com
 
 <!---
