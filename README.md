@@ -3,7 +3,7 @@
 - 🌱 I’m currently an Intern as a Full Stack JS Developer
 - 💞️ I’m looking to collaborate on React Native Apps
 - 🎯 I'm focusing on learning some new stuff
-- 📫 How to reach me : medamin@gmail.com
+- 📫 How to reach me : medamin.fredj@gmail.com
 
 <!---
 Med-Amine-Fredj/Med-Amine-Fredj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
