@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Med-Amine-Fredj
 - 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently an Intern as a Full Stack JS Developer
 - 💞️ I’m looking to collaborate on React Native Apps
 - 🎯 I'm focusing on learning some new stuff
 - 📫 How to reach me : medamin.fredj@gmail.com
