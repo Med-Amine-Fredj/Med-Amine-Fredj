@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Med-Amine-Fredj
-- 👀 I’m interested in Mobile Dev
-- 💞️ I’m looking to collaborate on React Native Apps
-- 🎯 I'm focusing on learning some new stuff
-- 📫 How to reach me : medamin.fredj@gmail.com
+# Mohamed Amine Fredj
+Full-Stack Web & Mobile Engineer
 
-<!---
-Med-Amine-Fredj/Med-Amine-Fredj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design and build scalable applications using React, React Native and Node.js.  
+My work focuses on clean architecture, maintainability, and production reliability.
+
+## About
+- Full-Stack Developer with experience in mobile, backend and cloud infrastructures  
+- Currently CTO & Co-Founder of PIZZAÎE  
+- Engineering Lead at IMAXEAM, working on MaxApps (IBM Maximo)  
+- Interested in distributed systems, DevOps automation, and high-availability design  
+
+## Skills
+React, React Native, Redux, Expo  
+Node.js, Express.js, REST APIs  
+MongoDB, RabbitMQ, Redis  
+Docker, Jenkins, GitHub Actions  
+AWS (EC2, S3, CloudFront), Nginx  
+Linux, CI/CD pipelines, code quality
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/med-amine-fredj  
+Email: medamin.fredj@gmail.com
